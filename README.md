@@ -73,7 +73,7 @@ python3 artifact2.py
 python3 artifact3.py
 ```
 
-The results are available at [GitHub Repository](https://github.com/S12P/sisyphus-fpga25-artifact).
+The results are available at [GitHub Repository](https://github.com/UCLA-VAST/sisyphus-fpga25-artifact).
 
 ## Citation
 
